@@ -56,6 +56,10 @@ hr {
     justify-content: space-around;
 }
 
+.seventh {
+    align-items: center;
+}
+
 .flexbox-container div {
     width: 100px;
     height: 100px;
@@ -67,4 +71,21 @@ hr {
     font-size: 3.5em;
     text-align: center;
     line-height: 100px;
+}
+
+.block1 {
+    flex: 1;
+    baseline: 100%;
+}
+
+.block2 {
+    flex: 2;
+}
+
+.block3 {
+    flex: 1;
+}
+
+.block4 {
+    flex: 3;
 }
