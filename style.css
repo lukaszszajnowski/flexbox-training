@@ -51,6 +51,11 @@ hr {
     justify-content: space-between;
 }
 
+.sixth {
+    align-items: center;
+    justify-content: space-around;
+}
+
 .flexbox-container div {
     width: 100px;
     height: 100px;
