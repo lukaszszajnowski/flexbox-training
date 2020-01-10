@@ -67,6 +67,10 @@ hr {
   align-items: center;
 }
 
+.eighth {
+  align-items: center;
+}
+
 .flexbox-container div {
   width: 100px;
   height: 100px;
@@ -80,6 +84,7 @@ hr {
   line-height: 100px;
 }
 
+/* 7th example */
 .block1 {
   flex: 1;
 }
@@ -95,3 +100,4 @@ hr {
 .block4 {
   flex: 3;
 }
+/* 7th example */
