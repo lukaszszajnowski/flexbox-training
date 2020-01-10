@@ -69,6 +69,10 @@ hr {
   flex-direction: row-reverse;
 }
 
+.tenth {
+  align-items: center;
+}
+
 .flexbox-container div {
   width: 100px;
   height: 100px;
@@ -122,3 +126,13 @@ hr {
 }
 
 /* 9th example */
+/* 10th example */
+.block1b {
+  align-self: flex-end;
+}
+
+.block2b {
+  align-self: flex-start;
+}
+
+/* 10th example */
