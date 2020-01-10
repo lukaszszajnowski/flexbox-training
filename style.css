@@ -100,3 +100,25 @@ hr {
 }
 
 /* 7th example */
+/* 9th example */
+.block1a {
+  order: 2;
+}
+
+.block2a {
+  order: 4;
+}
+
+.block3a {
+  order: 1;
+}
+
+.block4a {
+  order: 5;
+}
+
+.block5a {
+  order: 3;
+}
+
+/* 9th example */
